@@ -1,0 +1,6 @@
+ flask
+ cors
+ sklearn
+ pandas 
+ numpy
+ pickle
