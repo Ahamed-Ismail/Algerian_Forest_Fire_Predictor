@@ -1,6 +1,5 @@
  flask
- cors
- sklearn
+ scikit-learn
  pandas 
  numpy
  pickle
